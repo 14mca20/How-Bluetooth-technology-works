@@ -1,4 +1,4 @@
-# Project Title
+## Project Title
 
 Bluetooth technology
 
@@ -6,13 +6,11 @@ Bluetooth technology
 
 We created the PPT presentation and delivered seminar on how Bluetooth Technology works. It is purely technical. It covers the history and basics on Bluetooth. It also shows which protocols are used as part of communication.
 
-### Prerequisites
+## Prerequisites
 
 ```
 Microsoft power point
 ```
-
-* Microsoft power point
 
 ## Authors
 
